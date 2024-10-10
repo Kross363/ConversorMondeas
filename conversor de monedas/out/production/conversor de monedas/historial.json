@@ -1,0 +1,37 @@
+[
+  {
+    "base_code": "ARS",
+    "target_code": "USD",
+    "conversion_result": "38.95",
+    "valor": "38000 ARS",
+    "fecha": "9 de octubre de 2024, 20:45"
+  },
+  {
+    "base_code": "USD",
+    "target_code": "ARS",
+    "conversion_result": "10735.12",
+    "valor": "11 USD",
+    "fecha": "9 de octubre de 2024, 20:45"
+  },
+  {
+    "base_code": "USD",
+    "target_code": "BRL",
+    "conversion_result": "610.4667",
+    "valor": "111 USD",
+    "fecha": "9 de octubre de 2024, 20:45"
+  },
+  {
+    "base_code": "BRL",
+    "target_code": "USD",
+    "conversion_result": "57.267",
+    "valor": "315",
+    "fecha": "9 de octubre de 2024, 20:39"
+  },
+  {
+    "base_code": "USD",
+    "target_code": "ARS",
+    "conversion_result": "7807.36",
+    "valor": "8",
+    "fecha": "9 de octubre de 2024, 20:35"
+  }
+]
